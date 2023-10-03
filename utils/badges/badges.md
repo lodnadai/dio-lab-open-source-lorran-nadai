@@ -45,7 +45,7 @@
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord">
       </td>
       <td>
-        <code>[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/SEUUSERNAME/)</code>
+        <code>[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/lorrannadai/)</code>
       </td>
     </tr>
     <tr>
